@@ -1,5 +1,11 @@
 ### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whtjdrud)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=whtjdrud800)]([벨로그링크](https://velog.io/@whtjdrud800/WEBSTORM-prettier-ESLint-%EC%84%A4%EC%A0%95))
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 <!--
 **whtjdrud/whtjdrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
